@@ -3,4 +3,8 @@
 HELLO WORLD!
 Hi guys kamusta Valentines niyo
 
+<<<<<<< HEAD
 YAP what a b*tch
+=======
+bluecheese stinks
+>>>>>>> 76bf28a03ef1ff18f43ef5254a0b48a930ecacfe
